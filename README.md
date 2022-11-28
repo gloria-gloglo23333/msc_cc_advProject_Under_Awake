@@ -80,7 +80,9 @@ Real one, lowpoly deviated from my original intention of wanting to dream realis
 "Me" as a player gradually lost in a world where I can see, hear, smell and feel. It is a place where you can learn magic, learn to fly and learn everything that doesn't make sense in reality. At first, “I” would think of it as a game, and I would choose the "NPC" gifts and quests as “I” pleased, but later “I” would feel more and more like it was a real world because that's what my five senses told “me”. But “I” didn't realise that it was all a trap and a false reality. The concept of the game draws on the idea of Inception movie, where the dream (or virtual world) is a sub-real world. In my setting, these scenes represent layers of consciousness for "me". There are many "NPC" consciousnesses that may seem friendly but ultimately aim to kill the player in order to take over the player's body and out of the "game space". The player needs to find the truth in all the seemingly plausible "game" routines to successfully wake up.
 
 ### -	Moodboard about the scene
+
 - Under the sea (represnting the player weak up in the dream)
+
 ![599734c49403175b60abc0c720cc69b](https://user-images.githubusercontent.com/73170220/204178620-b0aece23-931b-4ee6-97a0-c95620a33946.jpg)
 
 - Castle (reprenting the player think this is the reality)
@@ -102,13 +104,17 @@ What I wanted to do at first was to wake up from the deep (representing the subc
 
 
 ## Week9-10 rewrite blueprinets and keep building scene
+
 ### -	VRpawn to VRcharacter
+
 I decided to ditch the teleportation in the original template in favour of a more realistic "walk", so I had to change the blueprint. I also had to convert the blueprints to VRCharacter again because I wanted to add flight mode and the VRPawn format was not available.
 
 - Change into locomotion(left hand)
+
 ![18baaaaa62cbd50b56a36d48b638dcb](https://user-images.githubusercontent.com/73170220/204179094-8ce9f175-84e2-4929-afc4-bf747f0612c6.png)
 
 - Change snapture into right hand
+
 ![1b87d25a24f12496ff249dc356ecdb2](https://user-images.githubusercontent.com/73170220/204179290-6a9f2ece-a5db-4651-87ab-0b2566fb15db.png)
 
 - Update room scale 
@@ -149,6 +155,8 @@ I decided to ditch the teleportation in the original template in favour of a mor
 ### -	building scene (followed with game rout)
 
 - Dream home (should be dark when begin play)
+
+
 ![1](https://user-images.githubusercontent.com/73170220/204186390-8345c15a-06fe-4e8b-822a-523d55c57f8f.png)
 
 
@@ -157,6 +165,8 @@ I decided to ditch the teleportation in the original template in favour of a mor
 ![2](https://user-images.githubusercontent.com/73170220/204187034-0a9e4a6c-3806-4fe5-8871-ba4446b1ba75.png)
 
 - Fountain space
+
+
 ![3](https://user-images.githubusercontent.com/73170220/204187244-feeaf07f-cf62-45bb-a652-9827682bd8ac.png)
 
 - Lost Castle
@@ -164,6 +174,8 @@ I decided to ditch the teleportation in the original template in favour of a mor
 ![4](https://user-images.githubusercontent.com/73170220/204187360-c0e4545b-b8f4-4712-91a1-ccfbb180c12c.png)
 
 - Dream home _ change
+
+
 ![5](https://user-images.githubusercontent.com/73170220/204187497-d7166e86-5196-46d2-989e-cdae14a0755b.png)
 
 - Undersea Catacombs _ change
@@ -171,10 +183,13 @@ I decided to ditch the teleportation in the original template in favour of a mor
 ![6](https://user-images.githubusercontent.com/73170220/204187591-80c5ca0c-eb83-455b-9115-ea10a5f186f2.png)
 
 - Lost Castle _ change
+
+
 ![7](https://user-images.githubusercontent.com/73170220/204187696-4e0fc40e-dad2-447e-a845-5e195dcc024a.png)
 
 
 ## Week11-12 fake water and trigger box
+
 ### -	water plug-in test failed 
 
 I was going to use the water plugin that comes with UE, but when I tried it, it flashed back and kept lagging when I entered VR. i had no choice but to find other methods to replace the water fluctuation
@@ -195,15 +210,21 @@ https://user-images.githubusercontent.com/73170220/204189703-567cff92-772a-4bf8-
 
 
 ### -	colour mist fog (change background colour smoothly)
+
+
 ![316cf98b4203ddb9b6e132b3fd72506](https://user-images.githubusercontent.com/73170220/204189904-d3da5477-7dcb-4b35-bf88-17b84e50b47e.png)
 
 
 
 ### -	fog
+
+
 ![217d7d81bf981c2898f72ce611489a8](https://user-images.githubusercontent.com/73170220/204189948-e6d8bd6e-ca73-445b-81e4-c7fc3c90a26b.png)
 
 
 ### -	trigger box light opening (touch the trigger box will open the light and other invisble things light widgets
+
+
 ![8bf139b8f569c9160a686ead2a6e35e](https://user-images.githubusercontent.com/73170220/204190152-59c341ee-44e2-4e2a-868d-0e93213897a2.png)
  In one scene there will be 12 trigger boxes
 
@@ -269,6 +290,8 @@ I don't know why my project didn't open at all on one day... I've been unlucky e
 
 
 ![c4f0b7d330358885202def7c1e97603](https://user-images.githubusercontent.com/73170220/204191349-624d9c0d-0d44-49f2-9f9e-6c87aefa8943.png)
+
+
 ![13aaeaaef64357fa54979f6841aad8a](https://user-images.githubusercontent.com/73170220/204191368-8f0dd373-48ac-4feb-80e6-e08b99cb9768.png)
 
 
@@ -278,11 +301,13 @@ https://user-images.githubusercontent.com/73170220/204191976-487bd98f-81a0-46d8-
 
 
 ## Week17 UI, transition and effect
+
 ### -	UI widgets (normoal widgets I made a lot, just need to put everone in the seprate actor that can show in the VR viewport)
 
 Interact x2
 
 ![34560fd6ce6aae79eac0b066a5cb88f](https://user-images.githubusercontent.com/73170220/204192316-18dc4cfe-3107-4278-820f-13b6528a0ec3.png)
+
 ![49a05ab2a5570ceed3670e6a79179ef](https://user-images.githubusercontent.com/73170220/204192333-139481b1-99f2-40ad-ae48-6a24d5486c0f.png)
 
 Hide widget interation line wile not using
@@ -296,6 +321,7 @@ Rich-text (I also made a lot ot this, the only way to add icons and different co
 
 
 ![01812df9aebdc529d949dc23ec110fe](https://user-images.githubusercontent.com/73170220/204192593-638329ed-3a95-4f0b-b856-954751502615.png)
+
 ![ab7d8167ab163684c8a5effe8919af2](https://user-images.githubusercontent.com/73170220/204192614-f9d14671-2771-4791-b2ce-777dcea89c50.png)
 
 
