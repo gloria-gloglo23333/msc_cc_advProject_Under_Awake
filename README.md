@@ -92,11 +92,9 @@ Real one, lowpoly deviated from my original intention of wanting to dream realis
 ### -	Test1 failed 
 What I wanted to do at first was to wake up from the deep (representing the subconscious) and then float up to the castle (representing floating from the deepest dream upwards in layers to the final layer of reality). But halfway through the reality layer it got stuck because I wanted to make an open map, so the map I made was too big to run in VR at all. As much as I liked it (below) I had no choice but to redo it.
 
-![image](https://user-images.githubusercontent.com/73170220/204178673-1176c2b1-73f4-454e-af4b-8eebb0290d58.png)
+![image](https://user-images.githubusercontent.com/73170220/204245433-84a2ea6f-934a-4197-b4ab-7c72d1d1d3fa.png)
 
-![image](https://user-images.githubusercontent.com/73170220/204178683-dfbb4117-a2b2-4f3b-8157-dc4875668319.png)
 
-![image](https://user-images.githubusercontent.com/73170220/204178693-1f84e05e-5915-4572-8cda-9b7d9176ff6a.png)
 
 
 ## Week9-10 rewrite blueprinets and keep building scene
