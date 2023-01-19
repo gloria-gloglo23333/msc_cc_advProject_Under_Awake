@@ -25,7 +25,7 @@ VR chat might be the biggest VR chat room. VRChat offers an endless collection o
 -Normal movement causes 3d vertigo but is more realistic
 -Teleport doesn't make you dizzy easily but feels weird.
 
-### - [Hogwarts Castle]（https://www.youtube.com/watch?v=Dlu0gziE1_8&t=736s）
+### - [Hogwarts Castle](https://www.youtube.com/watch?v=Dlu0gziE1_8&t=736s)
 This looks so great! It's low poly but there are lots of places to explore, the map is very large and cartoonish looking, not what I had in mind at first. But I can learn from it on the map. 
 
 ### -	Magic world?
