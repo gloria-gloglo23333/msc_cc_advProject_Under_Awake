@@ -281,6 +281,8 @@ I don't know why my project didn't open at all on one day... I've been unlucky e
 
 ### -	Arduino sketch
 
+![advance_final](https://github.com/gloria-gloglo23333/msc_cc_advProject_Under_Awake/assets/73170220/8c09a09c-648b-4629-a1a9-d0a5e976cd1c)
+
 - fan on and off
 
 
